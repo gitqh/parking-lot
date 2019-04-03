@@ -1,4 +1,4 @@
-package com.tw.domain;
+package com.tw.domain.ticket;
 
 import org.apache.commons.lang3.RandomUtils;
 

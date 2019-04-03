@@ -1,6 +1,8 @@
 package com.tw.domain;
 
 import com.google.common.collect.ImmutableList;
+import com.tw.domain.parking.ParkingLot;
+import com.tw.domain.ticket.Ticket;
 import com.tw.exception.NotEnoughSpotException;
 import com.tw.exception.TicketInvalidException;
 import org.junit.jupiter.api.Assertions;

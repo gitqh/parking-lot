@@ -1,10 +1,9 @@
-package com.tw.domain;
+package com.tw.domain.parking;
 
 import com.google.common.collect.Maps;
+import com.tw.domain.ticket.Ticket;
 import com.tw.exception.NotEnoughSpotException;
 import com.tw.exception.TicketInvalidException;
-import lombok.Builder;
-import lombok.Data;
 import org.apache.commons.lang3.RandomUtils;
 
 import java.util.List;

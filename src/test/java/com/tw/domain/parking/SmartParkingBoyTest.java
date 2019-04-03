@@ -1,10 +1,9 @@
-package com.tw.domain.parkingboy;
+package com.tw.domain.parking;
 
 import com.google.common.collect.ImmutableList;
 import com.google.common.collect.Lists;
 import com.tw.domain.Car;
-import com.tw.domain.ParkingLot;
-import com.tw.domain.Ticket;
+import com.tw.domain.ticket.Ticket;
 import com.tw.exception.NotEnoughSpotException;
 import com.tw.exception.TicketInvalidException;
 import org.junit.jupiter.api.Assertions;

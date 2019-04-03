@@ -2,7 +2,9 @@ package com.tw.domain;
 
 import com.google.common.collect.ImmutableList;
 import com.google.common.collect.Lists;
-import com.tw.domain.parkingboy.GraduateParkingBoy;
+import com.tw.domain.parking.GraduateParkingBoy;
+import com.tw.domain.parking.ParkingLot;
+import com.tw.domain.ticket.Ticket;
 import com.tw.exception.NotEnoughSpotException;
 import com.tw.exception.TicketInvalidException;
 import org.junit.jupiter.api.Assertions;

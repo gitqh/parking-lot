@@ -1,5 +1,6 @@
-package com.tw.domain;
+package com.tw.domain.parking;
 
+import com.tw.domain.ticket.Ticket;
 import com.tw.exception.NotEnoughSpotException;
 import com.tw.exception.TicketInvalidException;
 

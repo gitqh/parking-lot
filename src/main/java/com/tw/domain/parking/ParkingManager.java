@@ -1,9 +1,6 @@
-package com.tw.domain.parkingmanager;
+package com.tw.domain.parking;
 
-import com.tw.domain.ParkingLot;
-import com.tw.domain.Ticket;
-import com.tw.domain.parkingboy.AbstractParkingBoy;
-import com.tw.domain.parkingboy.GraduateParkingBoy;
+import com.tw.domain.ticket.Ticket;
 import com.tw.exception.NotEnoughSpotException;
 
 import java.util.List;
